@@ -29,9 +29,6 @@ export default function NavBar() {
         <Link to="/tasks" className={itemClass("/tasks")}>
           Danh sách
         </Link>
-        <Link to="/tasks/new" className={itemClass("/tasks/new")}>
-          Thêm task
-        </Link>
       </div>
     </nav>
   );

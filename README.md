@@ -19,7 +19,7 @@ b.Sửa file `appsettings.json`:
 Mở terminal trong dự án và chạy code sau
 ```
 dotnet restore
-dotnet ef migrations add Init
+dotnet ef migrations add Init3
 dotnet ef database update
 ```
 

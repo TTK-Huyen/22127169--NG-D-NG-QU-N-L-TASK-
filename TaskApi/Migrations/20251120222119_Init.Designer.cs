@@ -12,7 +12,7 @@ using TaskApi.Data;
 namespace TaskApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251120174001_Init")]
+    [Migration("20251120222119_Init")]
     partial class Init
     {
         /// <inheritdoc />

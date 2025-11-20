@@ -148,7 +148,7 @@ export default function TasksList() {
           to="/tasks/new"
           className="px-5 py-2 rounded-full bg-gradient-to-r from-sky-400 to-blue-600 text-white font-semibold text-sm shadow-md hover:shadow-lg transition"
         >
-          Add
+          Thêm task
         </Link>
       </div>
 
