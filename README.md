@@ -18,6 +18,7 @@ b.Sửa file `appsettings.json`:
 ### 2.Migration
 Mở terminal trong dự án và chạy code sau
 ```
+cd TaskApi
 dotnet restore
 dotnet ef migrations add Init3
 dotnet ef database update
@@ -42,6 +43,8 @@ VITE_API_BASE=http://localhost:5289
 
 ### 2.Cài đặt & chạy
 ```
+Mở một file vscode mới và chạy code sau
+cd task-client
 npm install
 npm run dev
 ```
