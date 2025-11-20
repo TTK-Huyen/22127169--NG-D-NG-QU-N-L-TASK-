@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* optional: font chung */
+body {
+  font-family: system-ui;
+  color: rgb(30 41 59);
+}
