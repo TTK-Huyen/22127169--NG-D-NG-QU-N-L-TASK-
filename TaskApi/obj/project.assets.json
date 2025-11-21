@@ -2471,11 +2471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\HCMUS_KH\\Nam4\\PTTK HTTTHD\\22127169--NG-D-NG-QU-N-L-TASK-\\TaskApi\\Task.csproj",
+      "projectUniqueName": "F:\\HCMUS_KH\\22127169--NG-D-NG-QU-N-L-TASK--main\\22127169--NG-D-NG-QU-N-L-TASK--main\\TaskApi\\Task.csproj",
       "projectName": "Task",
-      "projectPath": "F:\\HCMUS_KH\\Nam4\\PTTK HTTTHD\\22127169--NG-D-NG-QU-N-L-TASK-\\TaskApi\\Task.csproj",
+      "projectPath": "F:\\HCMUS_KH\\22127169--NG-D-NG-QU-N-L-TASK--main\\22127169--NG-D-NG-QU-N-L-TASK--main\\TaskApi\\Task.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "F:\\HCMUS_KH\\Nam4\\PTTK HTTTHD\\22127169--NG-D-NG-QU-N-L-TASK-\\TaskApi\\obj\\",
+      "outputPath": "F:\\HCMUS_KH\\22127169--NG-D-NG-QU-N-L-TASK--main\\22127169--NG-D-NG-QU-N-L-TASK--main\\TaskApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
